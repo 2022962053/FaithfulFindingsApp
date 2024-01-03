@@ -1,0 +1,21 @@
+/* List.css */
+
+.bordered-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .bordered-table th, .bordered-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  /* Add more styling as needed */
+  
+  .bordered-cell {
+    border: 1px solid #ddd;
+    padding: 8px;
+    /* Add more styling as needed */
+  }
+  
